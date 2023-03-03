@@ -1,0 +1,2 @@
+/dev/sda2
+/dev/sdb1
